@@ -1,5 +1,5 @@
 # InstaScraper
-A tool to scour Instagram profiles for informations such as: User ID, Full Name, Email Address, Follower/Following Count, Is Business? &amp; the business category.
+A tool to scour Instagram profiles for information such as: User ID, Full Name, Email Address, Follower/Following Count, Is Business? &amp; the business category.
 
 Source: https://www.instascraper.club/
 
