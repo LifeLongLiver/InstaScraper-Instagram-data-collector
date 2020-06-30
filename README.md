@@ -11,7 +11,7 @@ Multithreaded:
 Choose how many requests you make simultaneously by inputting your desired thread count.
 
 
-For those feeling generious:
+For those feeling generous:
 
 BTC Address:13YYz2uzS9bHzdZai9tJrzU69mWRoL1ryK
 
