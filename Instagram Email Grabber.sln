@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagram Email Grabber", "Instagram Email Grabber\Instagram Email Grabber.csproj", "{A8CE6B40-B792-4FFD-848C-F1B2F008899F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8CE6B40-B792-4FFD-848C-F1B2F008899F}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{A8CE6B40-B792-4FFD-848C-F1B2F008899F}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{A8CE6B40-B792-4FFD-848C-F1B2F008899F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8CE6B40-B792-4FFD-848C-F1B2F008899F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAF23B90-4990-4FF6-8E3E-156215C2BE67}
+	EndGlobalSection
+EndGlobal
